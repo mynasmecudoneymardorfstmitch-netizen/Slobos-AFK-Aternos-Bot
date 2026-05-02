@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ucraft2.aternos.me:47722",
+    "ip": "dhufish.aternos.host:47722",
     "port": 47722,
     "version": "1.21.11",
     "try-creative": false
